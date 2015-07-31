@@ -1,3 +1,8 @@
+Playing around with some data... we'll see where this goes. first time branching and etc. with github - any suggestions welcome!
+
+-leenbean
+
+
 The Museum of Modern Art (MoMA) Collection 
 ===================
 
